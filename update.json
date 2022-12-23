@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "1.1.0 发布啦",
+  "pub_date": "2022-12-23T21:33:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVZ2dVdKYmxUOHlKUWI1NXZQV2Q2VlZ3T0NUVFY4RHZWZjZXMWtLemdUY0N0T0liWktjdUhRUjhXRGowelBvaVNsaU1yeDcxSmRlZUtQRmN1TmNwSjV3Y245Um5QbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODA1NDQ1CWZpbGU65pmv5a6J5YWo6Z2i5pWw5a2X6Lqr5Lu9566h55CG5a6i5oi356uvXzEuMC45X3g2NF96aC1DTi5tc2kuemlwClBYTnloekFEUms3OXFkWmRtcTFudVlTd3NRT0Q5cUVkWXBOTzd2ektFZFQrMEoxYVdFckJ1UzB6T25MVnRzTVdoQmIzRkszcitrSGlZNlNxaVl3VER3PT0K",
+      "url": "https://github.com/luoffei/updator/releases/download/v1.1.0/client.msi"
+    }
+  }
+}
